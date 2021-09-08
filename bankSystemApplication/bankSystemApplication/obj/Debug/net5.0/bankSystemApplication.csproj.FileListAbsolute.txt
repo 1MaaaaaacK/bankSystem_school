@@ -1,0 +1,16 @@
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\obj\Debug\net5.0\bankSystemApplication.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\obj\Debug\net5.0\bankSystemApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\obj\Debug\net5.0\bankSystemApplication.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\obj\Debug\net5.0\bankSystemApplication.AssemblyInfo.cs
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\obj\Debug\net5.0\bankSystemApplication.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\bin\Debug\net5.0\bankSystemApplication.exe
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\bin\Debug\net5.0\bankSystemApplication.deps.json
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\bin\Debug\net5.0\bankSystemApplication.runtimeconfig.json
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\bin\Debug\net5.0\bankSystemApplication.runtimeconfig.dev.json
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\bin\Debug\net5.0\bankSystemApplication.dll
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\bin\Debug\net5.0\ref\bankSystemApplication.dll
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\bin\Debug\net5.0\bankSystemApplication.pdb
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\obj\Debug\net5.0\bankSystemApplication.dll
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\obj\Debug\net5.0\ref\bankSystemApplication.dll
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\obj\Debug\net5.0\bankSystemApplication.pdb
+C:\Users\marco\Documents\codigos\c#\bankSystemApplication\bankSystemApplication\obj\Debug\net5.0\bankSystemApplication.genruntimeconfig.cache
