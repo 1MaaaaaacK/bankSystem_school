@@ -209,24 +209,6 @@ namespace bankSystemApplication
 
             } while (!saida);
 
-            /*try
-            {
-                Conta conta1 = new Conta(123456, client1);
-                conta1.Titular = client1;
-                conta1.Depositar(1000);
-                Console.WriteLine("O saldo inicial da conta {0} é {1}", conta1.Numero, conta1.Saldo);
-
-                Console.WriteLine("O cliente da conta {0} é {1}", conta1.Numero, conta1.Titular.Nome);
-
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e.Message);
-
-            }*/
-
-
-
         }
     }
 }
